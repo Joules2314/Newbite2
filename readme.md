@@ -1,0 +1,4 @@
+## Descrição
+*Nesse projeto vamos realizar um site com informação sobre animes para deixar as pessoas interadas sobre os episódios, acontecimentos e notícias sobre os mais diversos tipos de animes. A idéia é proporcionar ao visitante e leitor uma forma de se tornar um visitante fiel do site, fazer com que eles tenham prazer em ler nossas notícias e vontade de acompanhar semanalmente nossas refêrencias do mundo anime e mangaka. 
+*Para tanto queremos usar partes dos episódios em vídeos que façam os leitores sentirem nostalgia relembrando momentos de extase de cada personagem referido e de suas aventuras. Inicialmente pensamos em começãr contando a História de One piece, já que a série conta com mais de 1000 episódios e haverá material de sobra para trabalhar e comentar. 
+*"Uma meta é um sonho com um prazo. (Napoleon Hill)".
